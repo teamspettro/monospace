@@ -1,6 +1,6 @@
-# MonoSpace Bug Tracker
+# MonoSpace Prototype Builds
 https://nextinfrfx.itch.io/monospace-prototype
-This is a repository to report bugs with the prototype of the game MonoSpace from N7 | Monoteam.
+This is a repository to report bugs  with the prototype of the game MonoSpace from N7 | Monoteam, but also to download the game.
 
 To report a bug, post it in the issues tab.
 
