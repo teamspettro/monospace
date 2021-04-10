@@ -1,0 +1,17 @@
+Songs that are available with the "setmusic" developer command. (`)
+ALL OF THESE ARE CASE INSENSITIVE
+
+
+A_Sudden_Development
+Cybercity_Nightlife
+Cybercity_Nightlife_Redux
+Enter_The_Monospace
+Forest
+Mono's Theme (might not work)
+MS_Express - Fast mode theme
+Overworld
+Peaceful_Strangers (main menu default)
+Smoke_ashes_and_whispers
+Vexed
+Where_are_we
+WR
