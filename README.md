@@ -1,11 +1,2 @@
 # MonoSpace Prototype Builds
-https://nextinfrfx.itch.io/monospace-prototype
-This is a repository to report bugs  with the prototype of the game MonoSpace from N7 | Monoteam, but also to download the game.
-
-To report a bug, post it in the issues tab.
-
-Template:
-(Name of bug) #buildname
-What is it about?
-Where is it?
-How can you recreate it? (if possible to do it again)
+Thank you for downloading the builds from here! MonoSpace is now in closed beta, if you want to do beta-testing, contact Nextin on discord: "Nextin Hekonray#6621"
